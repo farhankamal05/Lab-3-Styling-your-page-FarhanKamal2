@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  font-family: 'Onest', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  padding: 10px;
+  background-image: linear-gradient(to right, #84AEFF, rgba(255,0,0,1));
+}
+
+img{
+  border-radius: 12px;
+}
+
+.HeadingImage {
+  position: absolute;
+  top: 15px;
+  right: 3%;
+  width: 50%;
+  width: 90px;
+  height: 90px;
+}
+
+.HeaderMain, HeadingImage, h1, h2, h3, h4, h5, h6{
+  padding: 3px;
+  text-align: left;
+  margin: 1px;
+  color: #2e2a84;
+}
+
+.HeaderMain hr{
+  border-color: #2e2a84;
+  border-width: 3px;
+  border-radius: 25px;
+  border-style: solid;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.TESTEX{
+  background-color: #9e99ff;
+  color: white;
+  border-radius: 10px;
+}
+
+.ExampleBox{
+  background-color: beige;
+  padding: 10px;
+  border-radius: 12px;
+}
